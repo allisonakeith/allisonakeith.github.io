@@ -2,4 +2,20 @@ theme: jekyll-theme-minimal
 title: Allison Keith
 description: my portfolio
 
+navigation_header:
+  - title: Home
+    url: /
+  - title: Elements
+    url: /elements/
+  - title: Blog
+    url: /blog/
+  - title: Categories
+    url: /categories/
+  - title: Search
+    url: /search/
+  - title: About
+    url: /about/
 
+navigation_footer:
+  - title: Created by me
+    url:
