@@ -4,17 +4,17 @@ description: my portfolio
 
 navigation_header:
   - title: Home
-    url: /
-  - title: Elements
-    url: /elements/
+    url: https://allisonakeith.github.io/
+  - title: Publications
+    url: https://allisonakeith.github.io/about/Publications/
   - title: Blog
-    url: /blog/
+    url: https://allisonakeith.github.io/about/blog/
   - title: Categories
-    url: /categories/
+    url: https://allisonakeith.github.io/about/categories/
   - title: Search
-    url: /search/
+    url: https://allisonakeith.github.io/about/search/
   - title: About
-    url: /about/
+    url: https://allisonakeith.github.io/about/about/
 
 navigation_footer:
   - title: Created by me
