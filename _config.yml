@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Allison Keith"
 title_separator          : "-"
 name                     : &name "Allison Keith"
@@ -23,7 +23,7 @@ repository               : "allisonakeith/allisonakeith.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "berlin-profile.png"
+  avatar           : "images/berlin-profile.png"
   name             : "Allison Keith"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
