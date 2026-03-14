@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Allison Keith"
 title_separator          : "-"
 name                     : &name "Allison Keith"
@@ -23,9 +23,9 @@ repository               : "allisonakeith/allisonakeith.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "berlin-profile.png"
   name             : "Allison Keith"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Stuttgart"
   employer         : "University of Stuttgart"
@@ -33,18 +33,18 @@ author:
   email            : "allison.keith@ims.uni-stuttgart.de" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=sSvCT_gAAAAJ&hl=en&oi=sra"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #inspire-hep      : # URL
+  #impactstory      : # URL
+  orcid            : "https://orcid.org/0009-0001-8812-0079"
+  #semantic         : # URL
+  #ssrn             : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
