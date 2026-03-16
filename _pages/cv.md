@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Linguistics, University of Stuttgart, 2026 (expected)
+* M.S. in Cognitive Science ([Language and Multimodal Interaction](https://corsi.unitn.it/en/cognitive-science)), University of Trento, 2023
+* M.S. in Computational Linguistics, Saarland University, 2023
+* B.S. in Psychology Pre-Graduate Concentration, Virginia Commonwealth University, 2019
+* B.A. in French Language and Literature, Virginia Commonwealth University, 2019
 
 Work experience
 ======
@@ -35,10 +37,13 @@ Work experience
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Languages
+  * English (Native)
+  * French (Advanced)
+  * Spanish (Advanced)
+  * Portuguese (Intermediate)
+  * German (Intermediate)
+  * Italian (Beginner) 
 * Skill 3
 
 Publications
