@@ -54,16 +54,16 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 
+* DH2025, Lisbon, Portugal
+* TEI 2024, Buenos Aires, Argentina
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Social Bias in NLP, Fall/Winter 2025/2026 ,University of Stuttgart 
+  * Annotation in the Age of AI, Spring/Summer 2025 , University of Stuttgart
+  * Forró Beginner and Intermediate 1, 2025-2026, University of Stuttgart Hochschulsport
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
