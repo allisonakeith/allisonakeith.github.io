@@ -26,7 +26,7 @@ author:
   avatar           : "images/berlin-profile.png"
   name             : "Allison Keith"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Stuttgart"
   employer         : "University of Stuttgart"
   uri              : https://www.ims.uni-stuttgart.de/institut/team/Keith/
