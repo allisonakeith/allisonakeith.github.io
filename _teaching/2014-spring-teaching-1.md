@@ -7,3 +7,4 @@ venue: "University of Stuttgart, IMS"
 date: 2025-10-01
 location: "Stuttgart, Germany"
 ---
+Winter Semester 2025/2026, with Franziska Weeber
