@@ -85,6 +85,16 @@ Talks
 
 * Los personajes en las comedias de Calderón: un análisis cuantitativo con perspectiva de género (with Antonio Rojas Castro). XX Coloquio Anglogermano sobre Calderón. Allison Keith, Antonio Rojas Castro. Tübingen, Germany. September 20, 2024.
 
+* The Role of Metalinguistic Skill and Cross-Linguistics Transfer on Third Language Acquisition of Unrelated Languages. ​Mid-Atlantic Bioanthropology Interest Group Conference.​ Richmond, Virginia, USA. October 13, 2018.
+
+* Language Learners and the Role of Previous Language Education on Metalinguistic Skill and Cross-Linguistic Transfer. ​Virginia Commonwealth University School of World Studies Student Research Conference​. Richmond, Virginia, USA. November 9, 2018.
+
+* World Languages on Open Educational Resources (with Laura Middlebrooks, Steven Burton, Madeleine Murphy, and Kathryn Murphy)​. O​penCON 2019​, Richmond, Virginia, USA. January 11, 2019.
+
+* Student Driven Textbooks in World Languages (with Kathryn Murphy). ​Doing “REAL” 2019, Virginia Commonwealth University​, Richmond, Virginia, USA. April 5, 2019.
+
+* Student Driven Textbooks in World Languages (with Kathryn Murphy). ​FLAVA (Foreign Languages Assossiation of Virginia) Conference 2019, Williamsburg, Virgnia, USA. October 3, 2019.
+
   
 Service and leadership
 ======
