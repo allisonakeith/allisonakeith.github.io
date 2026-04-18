@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV THIS IS THE NEW VERSION "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -76,8 +76,6 @@ Talks
 * Tracing Regularities in Pedro Calderón de la Barca’s Dramatic Œuvre with a Computational Approach (with Hanno Ehrlicher), SPP Absclussmeeting, Würzburg, Germany. October 6, 2025.
 
 * Computational Analysis of the Gracioso in Calderón’s Theater (with Antonio Rojas Castro), Romanistiktag Section 10, Konstanz. September 24, 2025.
-
-<!-- ** Rostock -->
 
 * Investigation of Humor in the Works of Pedro Calderón de la Barca: a Quantitative Study of the Gracioso (with Antonio Rojas Castro), DH2025, Lisbon, Portugal. July 16, 2025.
 
