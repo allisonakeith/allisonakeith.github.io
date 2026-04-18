@@ -69,15 +69,15 @@ Talks
 ======
 * Computational Drama Analysis: Looking at Siglo de Oro Character Archetypes Computational Social Sciences Workshop, Stuttgart, Germany. February 25, 2026.
 
-* Computational Analysis of the Gracioso in Calderón’s Theater (with Antonio Rojas Castro), Romanistiktag Section 10, Konstanz. September 24, 2025.
-
-<!-- ** Rostock -->
-
 * Análisis computacional del Gracioso en el teatro de Calderón de la Barca (with Antonio Rojas Castro), Romanistik Seminar, University of Tübingen. December 2, 2025.
+
+* From Annotations in TEI to Natural Language Processing: A Computational Analysis of Characters in Calderón Drama Corpus (with Kerstin Jung), University of Stuttgart, Digital Humanities Colloquium. November 13, 2025.
 
 * Tracing Regularities in Pedro Calderón de la Barca’s Dramatic Œuvre with a Computational Approach (with Hanno Ehrlicher), SPP Absclussmeeting, Würzburg, Germany. October 6, 2025.
 
-* From Annotations in TEI to Natural Language Processing: A Computational Analysis of Characters in Calderón Drama Corpus (with Kerstin Jung), University of Stuttgart, Digital Humanities Colloquium. November 13, 2025.
+* Computational Analysis of the Gracioso in Calderón’s Theater (with Antonio Rojas Castro), Romanistiktag Section 10, Konstanz. September 24, 2025.
+
+<!-- ** Rostock -->
 
 * Investigation of Humor in the Works of Pedro Calderón de la Barca: a Quantitative Study of the Gracioso (with Antonio Rojas Castro), DH2025, Lisbon, Portugal. July 16, 2025.
 
