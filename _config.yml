@@ -23,7 +23,7 @@ repository               : "allisonakeith/allisonakeith.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/berlin-profile.png"
+  avatar           : "allisonakeith.github.io/images/berlin-profile.png"
   name             : "Allison Keith"
   pronouns         : "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
