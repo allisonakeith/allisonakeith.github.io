@@ -10,9 +10,9 @@ var addressPoints = [
     9.1800132
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Computational Analysis of the Gracioso in Calder\u00f3n\u2019s Theater<br />Romanistiktag-Section 10, University of Konstanz; Konstanz, Germany",
+    47.659216,
+    9.1750718
   ],
   [
     "From Annotations in TEI to Natural Language Processing: A Computational Analysis of Characters in Calder\u00f3n Drama Corpus<br />Digital Humanities Colloquium, University of Stuttgart; Stuttgart, Germany",
