@@ -66,3 +66,49 @@ $sidebar-screen-min-width : 1024px;
 .page__footer-follow .social-icons .svg-inline--fa {
     color: inherit;
 }
+
+/* ==========================================================================
+   TYPOGRAPHY SYSTEM (MODERN EDITORIAL)
+   ========================================================================== */
+
+$font-family-sans: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$font-family-serif: "Georgia", "Times New Roman", serif;
+
+$base-font-size: 16px;
+$base-line-height: 1.65;
+
+$heading-weight: 600;
+$body-weight: 400;
+
+/* Headings feel lighter + more editorial */
+h1,
+h2,
+h3 {
+    font-weight: $heading-weight;
+    letter-spacing: -0.02em;
+}
+
+/* Body text readability */
+body {
+    font-family: $font-family-sans;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    color: $text;
+}
+
+/* ==========================================================================
+   UI POLISH
+   ========================================================================== */
+
+$border-radius: 10px;
+
+/* Softer shadows (modern UI trend) */
+$box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+
+/* Code blocks */
+code {
+    background: $lighter-primary-color;
+    color: $dark-primary-color;
+    border-radius: 6px;
+    padding: 2px 6px;
+}
