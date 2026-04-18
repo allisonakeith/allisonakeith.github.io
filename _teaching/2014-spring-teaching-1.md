@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's level seminar course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "University of Stuttgart, IMS"
-date: "WS 2025/2026"
+date: 2025-10-01
 location: "Stuttgart, Germany"
 ---
 <!-- 
