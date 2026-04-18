@@ -87,7 +87,6 @@ Talks
 
 * Los personajes en las comedias de Calderón: un análisis cuantitativo con perspectiva de género (with Antonio Rojas Castro). XX Coloquio Anglogermano sobre Calderón. Allison Keith, Antonio Rojas Castro. Tübingen, Germany. September 20, 2024.
 
-
   
 Service and leadership
 ======
@@ -98,6 +97,6 @@ Service and leadership
 Grants and Scholarships
 ======
 * Fulbright Germany Research/ Study Grant, for LCT program, September 2021- June 2022
-* Open Educational Resources (OER) Grant, for Open Source French Textbooks project, September 2018- June 2019
+* Open Educational Resources (OER) Grant, for Open source French textbooks project, September 2018-June 2019
 * Virginia Merit Award Scholarship, for academic achievement, September 2015- May 2019
   
