@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV THIS IS THE NEW VERSION "
 permalink: /cv/
 author_profile: true
 redirect_from:
