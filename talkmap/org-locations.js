@@ -1,13 +1,13 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Tracing Regularities in Pedro Calder\u00f3n de la Barca\u2019s Dramatic \u0152uvre with a Computational Approach<br />DFG: SPP Absclussmeeting; W\u00fcrzburg, Germany",
+    49.7780356,
+    9.9434769
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Computational Drama Analysis: Looking at Siglo de Oro Character Archetypes<br />Computational Social Sciences Workshop, University of Stuttgart; Stuttgart, Germany",
+    48.7784485,
+    9.1800132
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
@@ -15,8 +15,13 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "From Annotations in TEI to Natural Language Processing: A Computational Analysis of Characters in Calder\u00f3n Drama Corpus<br />Digital Humanities Colloquium, University of Stuttgart; Stuttgart, Germany",
+    48.7784485,
+    9.1800132
+  ],
+  [
+    "An\u00e1lisis computacional del Gracioso en el teatro de Calder\u00f3n de la Barca<br />Romanistik Seminar, University of T\u00fcbingen; T\u00fcbingen, Germany",
+    48.5203263,
+    9.053596
   ]
 ];
