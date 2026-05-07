@@ -29,7 +29,7 @@ Work experience
   * Institut für Maschinelle Sprachverarbeitung, University of Stuttgart
   * Duties: Working on Tracing Regularities in the Works of Calderón de la Barca Schwerpunktprogramme project from Deutsche Forschungsgemeinschaft, Teaching
   * Supervisor: Sebastian Padó
-* Jan 2023- April 2023: Research Assistant
+* Jan 2023 - April 2023: Research Assistant
   * Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI). Saarbrücken, Germany
   * Duties included: 
     * Research support for a project involving video to text alignment of ocular surgery
@@ -37,12 +37,12 @@ Work experience
 accessibility using Javascript React and HTML
   * Supervisor: Moritz Wolf 
 
-* April 2022- April 2025: Private Tutor
+* April 2022 - April 2025: Private Tutor
   * Varsity Tutors
   * Duties included: Teaching students French at various levels (absolute beginner to advanced). Developing lesson plans and created course content.
 
 
-* February-March 2021: Research Assistant
+* February - March 2021: Research Assistant
   * Linguistics in Cognition Group - LiCo. Center for Mind/Brain Sciences. University of Trento
   * Duties included: Participated in an internship involving semi-automatic translation of presupposition violation dataset (DuckRabbit) for training neural networks, from English to French using Python code.
   * Supervisor: Roberto Zamparelli
@@ -98,7 +98,10 @@ Talks
   
 Service and leadership
 ======
-* June 2020-July 2020 Volunteer: Head ESL Teacher
+* October 2024 - present: Teacher and Volunteer
+  * Forró com dendê. Stuttgart Germany
+  * Duties include: Teaching Forró Beginner and Intermediate 1 weekly through the University of Stuttgart Hochschulsport. Supporting international instructors and DJs through hosting, logistics, and translation (Portuguese–English) during full-day workshops. Assisting with event operations including check-in, bar service, merchandise sales, and venue setup/cleanup.
+* June 2020 - July 2020:  Head ESL Teacher
   * Sacred Heart Center. Richmond, VA
   * Duties included: Teaching ESL course twice a week via video conference to a class of 9 students. Designing lesson plans on the themes of introductions, health, family, time, and education.
 
